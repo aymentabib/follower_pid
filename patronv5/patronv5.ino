@@ -1,3 +1,6 @@
+/*
+un suiveur de ligne/éviteur d'odstacle avec correction pid.
+*/
 #include <NewPing.h>
 #include "pid_follower.h"
 //
